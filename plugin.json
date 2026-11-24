@@ -1,0 +1,11 @@
+{
+	"plugin": {
+		"name": "rob",
+		"description": "Virtual 3D R.O.B.",
+		"version": "0.1.0",
+		"license": "BSD-3-Clause",
+		"author": "jflatt",
+		"type": "plugin",
+		"start": "false"
+	}
+}
